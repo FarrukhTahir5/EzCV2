@@ -1,7 +1,7 @@
 # OpenCV Function Explorer
 
 OpenCV Function Explorer is a Python application that allows users to explore and apply various OpenCV functions on images and videos. The application supports live video processing and YOLO-based object detection.
-
+![Face Detection Example](https://path_to_your_image.jpg)
 ## Features
 
 - Load and display images and videos

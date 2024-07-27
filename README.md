@@ -39,13 +39,17 @@ OpenCV Function Explorer is a Python application that allows users to explore an
    ```sh
    python main.py
    ```
-
 ## Usage
 
-1. Launch the application.
-2. Use the buttons to load the YOLO weights, configuration file, and class names file.
-3. Load an image or video file to process.
-4. Apply filters and toggle object detection as needed.
+1. **Download YOLO Files:**
+
+   - **YOLO v3 Configuration File:** [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
+   - **YOLO v3 Class Names File:** [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
+   - **YOLO v3 Weights File:** [yolov3.weights](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights)
+2. Launch the application.
+3. Use the buttons to load the YOLO weights, configuration file, and class names file.
+4. Load an image or video file to process.
+5. Apply filters and toggle object detection as needed.
 
 ## Dependencies
 
